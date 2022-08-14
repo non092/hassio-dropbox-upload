@@ -8,7 +8,7 @@
     "ini": false,
     "boot": "auto",
     "hassio_api": true,
-    "hassio_role": "manager",
+    "hassio_role": "backup",
     "homeassistant_api": true,
     "image": "d0ugal/hassio-dropbox-upload-{arch}",
     "map": [
