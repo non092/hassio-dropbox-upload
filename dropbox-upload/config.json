@@ -5,7 +5,7 @@
     "description": "Upload snapshots to Dropbox!",
     "startup": "application",
     "url": "https://github.com/d0ugal/hassio-dropbox-upload",
-    "ini": false,
+    "init": false,
     "boot": "auto",
     "hassio_api": true,
     "hassio_role": "backup",
